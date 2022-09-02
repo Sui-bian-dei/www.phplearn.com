@@ -1,0 +1,1 @@
+print(1) if "11"  else print(2)
